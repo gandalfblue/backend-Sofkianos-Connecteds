@@ -8,12 +8,12 @@
 		<version>2.7.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+	<packaging>war</packaging>
 	<groupId>co.com.sofka</groupId>
 	<artifactId>questions</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>questions</name>
 	<description>Demo project Q&amp;A</description>
-	<!--<packaging>war</packaging>-->
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
